@@ -7,5 +7,6 @@ this proj requires python 3 and requests package
 First install pipenv then:
 ```
 pipenv install
-pipenv run `python find_meteorites.py`
+pipenv run python find_meteorites.py
+
 ```
